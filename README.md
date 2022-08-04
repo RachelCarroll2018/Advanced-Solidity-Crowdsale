@@ -101,7 +101,8 @@ In the `KaseiCoinCrowdsaleDeployer` contract, I added variables to store the add
 6. Check for any errors, and debug them as needed.
 
 7. Take a screenshot of the successful compilation of the contract <br>
-![second compilation](https://user-images.githubusercontent.com/9899090/182960876-179fcb5b-15f3-4e34-8ccf-b2734b3da7d6.png)
+![second compilation](https://user-images.githubusercontent.com/98990090/182961524-0337c9b4-1384-485f-8017-8d528b049322.png)
+
 
 ### Step 4: Deploy and Test the Crowdsale on a Local Blockchain
 

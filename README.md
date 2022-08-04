@@ -112,8 +112,8 @@ In this subsection, you'll deployed the crowdsale to a local blockchain. You’l
 2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.
 
 3. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
-![deployment](https://user-images.githubusercontent.com/98990090/182960883-f7d460eb-b530-45fe-8cbf-8aff809d0dd3.png) <br> Initial deployment
-![mint 100000](https://user-images.githubusercontent.com/98990090/182960875-0dbab9d6-6b5c-4fdd-88d6-81e05f950f4f.png)<br> Minting tokens
-![transferring ](https://user-images.githubusercontent.com/98990090/182960880-fe3a44a2-d308-4282-9f54-f49861b18b69.png) <br> Transferring tokens
-![add minter](https://user-images.githubusercontent.com/98990090/182960881-e846d269-b68b-413c-9424-6e10e4c479ba.png) <br> Making another person a minter
-![balance of account](https://user-images.githubusercontent.com/98990090/182960882-bdfd70fd-4cc8-4627-8975-b64eb46781c5.png) <br> Checking balance of account
+![deployment](https://user-images.githubusercontent.com/98990090/182960883-f7d460eb-b530-45fe-8cbf-8aff809d0dd3.png) <br> Initial deployment <br>
+![mint 100000](https://user-images.githubusercontent.com/98990090/182960875-0dbab9d6-6b5c-4fdd-88d6-81e05f950f4f.png)<br> Minting tokens <br>
+![transferring ](https://user-images.githubusercontent.com/98990090/182960880-fe3a44a2-d308-4282-9f54-f49861b18b69.png) <br> Transferring tokens <br>
+![add minter](https://user-images.githubusercontent.com/98990090/182960881-e846d269-b68b-413c-9424-6e10e4c479ba.png) <br> Making another person a minter <br>
+![balance of account](https://user-images.githubusercontent.com/98990090/182960882-bdfd70fd-4cc8-4627-8975-b64eb46781c5.png) <br> Checking balance of account <br>

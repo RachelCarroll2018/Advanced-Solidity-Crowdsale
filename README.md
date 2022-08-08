@@ -64,7 +64,7 @@ In this subsection, you’ll define the KaseiCoin crowdsale contract. To do so, 
 5. Check for any errors, and debug them as needed.
 
 6. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your GitHub repository. <br>
-![First compilation ](https://user-images.githubusercontent.com/98990090/182960872-d65f17ec-0a49-4860-965d-cff5bdac5671.png)
+
 
 ### Step 3: Create the KaseiCoin Deployer Contract
 
@@ -101,8 +101,6 @@ In the `KaseiCoinCrowdsaleDeployer` contract, I added variables to store the add
 6. Check for any errors, and debug them as needed.
 
 7. Take a screenshot of the successful compilation of the contract <br>
-![second compilation](https://user-images.githubusercontent.com/98990090/182961524-0337c9b4-1384-485f-8017-8d528b049322.png)
-
 
 ### Step 4: Deploy and Test the Crowdsale on a Local Blockchain
 
@@ -113,8 +111,3 @@ In this subsection, you'll deployed the crowdsale to a local blockchain. You’l
 2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.
 
 3. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
-![deployment](https://user-images.githubusercontent.com/98990090/182960883-f7d460eb-b530-45fe-8cbf-8aff809d0dd3.png) <br> Initial deployment <br>
-![mint 100000](https://user-images.githubusercontent.com/98990090/182960875-0dbab9d6-6b5c-4fdd-88d6-81e05f950f4f.png)<br> Minting tokens <br>
-![transferring ](https://user-images.githubusercontent.com/98990090/182960880-fe3a44a2-d308-4282-9f54-f49861b18b69.png) <br> Transferring tokens <br>
-![add minter](https://user-images.githubusercontent.com/98990090/182960881-e846d269-b68b-413c-9424-6e10e4c479ba.png) <br> Making another person a minter <br>
-![balance of account](https://user-images.githubusercontent.com/98990090/182960882-bdfd70fd-4cc8-4627-8975-b64eb46781c5.png) <br> Checking balance of account <br>
